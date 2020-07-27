@@ -6,3 +6,5 @@
 ## I have downloaded two datasets:
 *	train.csv - the training data
 *	test.csv - the dates to predict
+
+## This analysis is performed on limited data. But if good amount of data is available, there is scope to come up with better results.
